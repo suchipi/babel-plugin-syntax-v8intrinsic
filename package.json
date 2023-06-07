@@ -1,5 +1,6 @@
 {
   "name": "@suchipi/babel-plugin-syntax-v8intrinsic",
+  "description": "Babel plugin which enables syntax parsing support for V8 intrinsics",
   "version": "7.22.4",
   "main": "src/index.js",
   "type": "commonjs",
@@ -19,6 +20,7 @@
   },
   "author": "Lily Skye <me@suchipi.com>",
   "license": "MIT",
+  "repository": "suchipi/babel-plugin-syntax-v8intrinsic",
   "publishConfig": {
     "access": "public"
   }
